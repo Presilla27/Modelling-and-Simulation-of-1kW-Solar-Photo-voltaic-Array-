@@ -4,10 +4,10 @@
 To model and design a 1kW solar photovoltaic system using MATLAB Simulation and obtain the 
 current, voltage, power values and solar PV characteristics curves.
 
-##APPARATUS REQUIRED
+## APPARATUS REQUIRED
 MATLAB 2021 or above
 
-#PROCEDURE
+## PROCEDURE
 1. Open MATLAB
 2. From Simulink library browser, pick the following components
 a. solar cell
@@ -35,18 +35,18 @@ voltage outputs to get the power output.
 12. Set the minimum and maximum range in X-Y graph to obtain the IV and PV 
 characteristics.
 
-#SIMULATION DIAGRAM
+## SIMULATION DIAGRAM
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6050f3e3-975a-4269-8ef1-f72b0205a1c3" />
 <img width="1753" height="472" alt="image" src="https://github.com/user-attachments/assets/8994c3f2-8135-40b0-900d-93ad3f0e39f2" />
 <img width="1338" height="864" alt="image" src="https://github.com/user-attachments/assets/61a5f17c-5372-49e1-97d1-01b71e52f6b6" />
 <img width="637" height="642" alt="image" src="https://github.com/user-attachments/assets/79efeee9-d375-4448-86b3-f9229c48a88d" />
 
-#OUTPUT GRAPH
+## OUTPUT GRAPH
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0b9171a0-3393-4d96-947c-ddfc12155fe2" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5932ee59-0e8c-441b-ab71-8bbd72000966" />
 <img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/9938482b-4e02-4104-b699-07694aca016c" />
 
-#OUTPUT TABLE
+## OUTPUT TABLE
 
 
 
