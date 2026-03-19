@@ -1,10 +1,10 @@
 # Modelling-and-Simulation-of-1kW-Solar-Photo-voltaic-Array-
 
-#AIM
+##AIM
 To model and design a 1kW solar photovoltaic system using MATLAB Simulation and obtain the 
 current, voltage, power values and solar PV characteristics curves.
 
-#APPARATUS REQUIRED
+##APPARATUS REQUIRED
 MATLAB 2021 or above
 
 #PROCEDURE
